@@ -1,4 +1,7 @@
 groq
 python-dotenv
 textblob
+openai
+googletrans
+deep_translator
 -e .
